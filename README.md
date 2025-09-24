@@ -59,11 +59,5 @@ Removes an empty directory.
 - Removes the specified empty directory.
 - If the directory is not empty or does not exist, an error message will be displayed.
 
-
-## FILES
-- **No external files** are used by this shell, as it operates entirely within the user's current environment and interacts with the file system through system calls like `chdir`, `getcwd`, `opendir`, etc.
-
-
-
 ## LICENSE
 This software is released under the MIT License.
