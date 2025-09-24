@@ -1,7 +1,6 @@
-# Sea Shell - Man Page
+# Sea Shell
 
-## NAME
-**Sea Shell** - a simple command-line shell with basic file system manipulation commands
+A command-line shell with basic file system manipulation commands
 
 ## DESCRIPTION
 **Sea Shell** is a basic command-line shell program that allows users to interact with the file system. It supports a subset of commands similar to typical UNIX shell commands, including:
