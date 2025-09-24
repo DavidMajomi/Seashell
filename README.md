@@ -1,14 +1,10 @@
-# Custom Shell - Man Page
+# Sea Shell - Man Page
 
 ## NAME
-**custom-shell** - a simple command-line shell with basic file system manipulation commands
-
-## Author: David Majomi
-
-## SYNOPSIS
+**Sea Shell** - a simple command-line shell with basic file system manipulation commands
 
 ## DESCRIPTION
-**custom-shell** is a basic command-line shell program that allows users to interact with the file system. It supports a subset of commands similar to typical UNIX shell commands, including:
+**Sea Shell** is a basic command-line shell program that allows users to interact with the file system. It supports a subset of commands similar to typical UNIX shell commands, including:
 - `cd`: Change the current working directory.
 - `pwd`: Print the current working directory.
 - `ls`: List the contents of the current directory.
